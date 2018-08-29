@@ -1,0 +1,12 @@
+input[type=text] {
+  margin-bottom: 10px !important;
+}
+
+.item:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.item button {
+  margin-left: 5px !important;
+}
